@@ -1705,7 +1705,7 @@ Pedodoncja jest dziedziną, gdzie główny nacisk powinien być położony na pr
   },
 
   endodoncjamikroskopowa: {
-    title: "Endodoncja mikroskopowa",
+    title: "Endodoncja",
     description: `<p class='paragraph'>
     Leczenie endodontyczne, zwane jest również kanałowym. <br><br>
 Jego celem jest hamowanie procesów chorobowych zachodzących w korzeniu zęba, poprzez usunięcie miazgi, poszerzenie kanału i szczelne wypełnienie systemu kanałów korzeniowych przez stomatologa. <br><br>
@@ -1738,7 +1738,7 @@ Wywołuje je m.in.: palenie papierosów, nadmierny stres, otyłość, schorzenia
   skalingnaddziaslowy: {
     title: "Skaling naddziąsłowy i poddziąsłowy",
     description: `<p class='paragraph'>
-    kaling to usuwanie kamienia nazębnego, który osadza się w okolicach szyjek zębowych oraz w innych trudno dostępnych miejscach, do których nie możemy dotrzeć szczoteczką.<br><br>
+    Skaling to usuwanie kamienia nazębnego, który osadza się w okolicach szyjek zębowych oraz w innych trudno dostępnych miejscach, do których nie możemy dotrzeć szczoteczką.<br><br>
 Wyróżniamy różne metody usuwania kamienia nazębnego m.in.: konwencjonalną,  mechaniczną, ultradźwiękową. <br><br>
 Kamień nazębny powstaje w wyniku oddziaływania różnych czynników m.in.:. wysoko zmineralizowanej śliny, picia kawy i mocnej herbaty oraz palenia tytoniu.<br><br>
 Zalecane jest, by zabieg usuwania kamienia nazębnego, przeprowadzać raz na pół roku.
@@ -1836,11 +1836,16 @@ Metodę wybielania dobieramy indywidualnie do danej osoby.
   },
 
   piaskowanie: {
-    title: "Piaskowanie",
+    title: "Higienizacja",
     description: `<p class='paragraph'>
     Piaskowanie polega na oczyszczaniu zębów z kamienia i osadu, przy użyciu tłoczonej pod wysokim ciśnieniem zawiesiny, zawierającej drobinki substancji czyszczącej. <br><br>
 W czasie piaskowania stosuje się tzw. piasek stomatologiczny, stąd nazwa zabiegu. <br><br>
-Do piaskowania naddziąsłowego używany jest piasek o twardszych drobinkach, co pozwala na usunięcie nawet masywnych przebarwień. Z  kolei piaskowanie poddziąsłowe, umożliwia pozbycie się osadu i przebarwień z okolicy kieszeni zębowych. W tym przypadku, używany jest piasek o bardziej miękkich drobinkach -  najczęściej glicyny.
+Do piaskowania naddziąsłowego używany jest piasek o twardszych drobinkach, co pozwala na usunięcie nawet masywnych przebarwień. Z  kolei piaskowanie poddziąsłowe, umożliwia pozbycie się osadu i przebarwień z okolicy kieszeni zębowych. W tym przypadku, używany jest piasek o bardziej miękkich drobinkach -  najczęściej glicyny.<br><br>
+
+Skaling to usuwanie kamienia nazębnego, który osadza się w okolicach szyjek zębowych oraz w innych trudno dostępnych miejscach, do których nie możemy dotrzeć szczoteczką.<br><br>
+Wyróżniamy różne metody usuwania kamienia nazębnego m.in.: konwencjonalną,  mechaniczną, ultradźwiękową. <br><br>
+Kamień nazębny powstaje w wyniku oddziaływania różnych czynników m.in.:. wysoko zmineralizowanej śliny, picia kawy i mocnej herbaty oraz palenia tytoniu.<br><br>
+Zalecane jest, by zabieg usuwania kamienia nazębnego, przeprowadzać raz na pół roku.
 
         </p>
     `,

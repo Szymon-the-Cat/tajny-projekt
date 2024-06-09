@@ -2382,6 +2382,28 @@ Półpasiec pojawia się w wyniku osłabienia układu odpornościowego i jest ef
   `,
   },
 
+  faucs: {
+    title: "FAUCS",
+    description: `
+<p class='paragraph'> To technika cesarskiego cięcia powstała we Francji, opracowana została przez doktora Denisa Faucka. Dlatego nazywana jest porodem francuskim. Jest metodą zdecydowanie mniej obciążającą dla pacjentki i bezpieczną, zarówno dla rodzącej, jak i dziecka. Pozwala mamie już po kilku godzinach wrócić do sprawności. Jej dużym plusem jest także możliwość szybkiego kontaktu matki z dzieckiem. </p></br>
+<p class='paragraph'> FAUCS polega na połączeniu cesarskiego cięcia z porodem siłami natury. Na początku nacinana jest skórę brzucha, a w drugim etapie korzysta się ze współpracy z rodzącą – kobieta prze, jak podczas porodu naturalnego. </p></br>
+<p class='paragraph'> Ważne dla szybszej regeneracji po zabiegu, jest podanie mniejszej ilości środków znieczulających, a można podać ich mniej, bo cięcie jest mniej inwazyjne niż przy klasycznej cesarce.  Znieczulenie obejmuje obszar poniżej pępka do palców u stóp. Jest krótkotrwałe. Dzięki temu, pacjentka może wstać i chodzić już po 2-3 godzinach od porodu, oddawać mocz bez cewnika, a także jeść, czy wziąć prysznic. We Francji, po porodzie tego typu, po 12 godzinach pacjentka może zostać wypisana do domu. W Polsce ze względu na przepisy dotyczące noworodków ten czas wynosi 48-72 godzin. </p></br>
+<p class='paragraph'> Pod względem chirurgicznym, po nacięciu skóry w dolnej części brzucha, tuż nad spojeniem łonowym na około 9-10 cm, technika ta różni się znacząco od klasycznego cesarskiego cięcia. Pierwszym krokiem jest pionowe nacięcie powięzi wzdłuż mięśni prostych brzucha zgodnie z kierunkiem włókien mięśniowych, podczas gdy w klasycznym cesarskim cięciu, powięź jest cięta poziomo. Następnie, mięśnie są rozdzielane ręcznie, otrzewna jest omijana, aby dotrzeć bezpośrednio do macicy. To zapewnia organom ochronę przed potencjalnymi uszkodzeniami. W ten sposób unika się też podrażnienia, związanego z wyciekiem krwi i płynu owodniowego. Dziecko przychodzi na świat poprzez niewielkie nacięcie macicy, co sprzyja lepszemu gojeniu się blizny w tym miejscu.
+W drugi etap porodu tą metodą, angażowana jest rodząca, której zadaniem podobnie, jak podczas porodu siłami natury jest parcie. To zadanie też zostało w pewien sposób ułatwione, a umożliwił to wynalazek francuskiego fizjoterapeuty i pomysł dr Bénédicta Simona. Otóż Luc Guillarme wymyślił, że do rehabilitacji mięśni brzucha i dna miednicy wykorzysta mały ustnik, poprzez sposób wykorzystania nazywany też potocznie gwizdkiem. </p></br>
+<p class='paragraph'> Jak to działa?  </p></br>
+<p class='paragraph'> Poprzez stworzenie przeszkody dla wydechu, jednocześnie zapewniając równomierny wdech, pacjentka może nauczyć się skutecznie kontrolować przeponę, mięśnie brzucha i mięśnie dna miednicy. Ten sposób oddychania wykorzystywany podczas cesarskiego cięcia, pozwala pacjentce na stopniowe i powtarzalne parcie, podobne do tego podczas porodu drogami natury. Badanie rozpoczęte pod koniec 2017 roku w Klinice Położniczej Polikliniki Santa Maria w Nicei,  już na 20 pierwszych pacjentkach, korzystających z gwizdków Guillarme, pokazały bardzo wysoki poziom zadowolenia z wykorzystanego rozwiązania. Dzięki tej prostej metodzie kobiety mogą brać aktywny udział w narodzinach dziecka. </p></br>
+<p class='paragraph'> Poród francuski zmniejsza też liczbę powikłań związanych zarówno ze zdrowiem dziecka, jak i matki. Bardzo ważne jest, iż po tym rodzaju porodu mama szybko może zaopiekować się dzieckiem. Szybciej nawiązywany jest też kontakt. </p></br>
+<p class='paragraph'> „L’approche bienveillante en césarienne” – czyli troskliwe podejście do cesarskiego cięcia, to filozofia, która ma za zadanie ograniczyć traumatyczne przeżycia związane z porodem i ma sprzyjać, jak najbardziej naturalnemu i szybkiemu spotkaniu matki z dzieckiem. Poród francuski nazywany też porodem brzusznym  jest też odpowiedzią na emocjonalne i fizjologiczne potrzeby w relacji matka-noworodek. Do kontaktu typu skóra-skóra, dochodzi już w sali operacyjnej. Dziecko po narodzeniu jest umieszczane na ciele matki i pozostaje tam, tak długo, jak to jest możliwe. To pozwala na zaspokojenie potrzeb fizjologicznych i emocjonalnych noworodków oraz ich matek. Sala operacyjna musi być do tego w odpowiedni sposób przygotowana i dostosowana. Warto skorzystać z tego rozwiązania, bo korzyści  jest wiele. Chodzi między innymi o: </p></br>
+<p class='paragraph'>
+– Oddychanie: badania pokazują, że oddychanie noworodka przebiega łatwiej, gdy jest umieszczony w kontakcie skóra do skóry z matką, niż gdy jest oddzielony od niej. </br>
+– Tworzenie więzi: kontakt skóra do skóry zwiększa naturalny poziom oksytocyny wydzielanej przez matkę. Ten hormon sprzyja tworzeniu więzi między matką a dzieckiem. </br>
+– Naturalna inkubacja: noworodek potrzebuje ciepła bezpośrednio po narodzeniu. Dowiedziono, że jego temperatura jest równie dobrze utrzymywana w kontakcie skóra do skóry, co w inkubatorze. </br>
+
+</p>
+    
+  `,
+  },
+
   kontrolapooperacyjna: {
     title: "Kontrola pooperacyjna",
     description: `

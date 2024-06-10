@@ -2399,8 +2399,8 @@ W drugi etap porodu tą metodą, angażowana jest rodząca, której zadaniem pod
 – Tworzenie więzi: kontakt skóra do skóry zwiększa naturalny poziom oksytocyny wydzielanej przez matkę. Ten hormon sprzyja tworzeniu więzi między matką a dzieckiem. </br>
 – Naturalna inkubacja: noworodek potrzebuje ciepła bezpośrednio po narodzeniu. Dowiedziono, że jego temperatura jest równie dobrze utrzymywana w kontakcie skóra do skóry, co w inkubatorze. </br>
 
-</p>
-    
+</p></br>
+    <img src="./assets/images/modal/faucs.jpg" width="80%" alt="ktg">
   `,
   },
 

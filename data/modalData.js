@@ -1128,7 +1128,6 @@ Specjalista widzi również to, czy dziecko przyjęło pozycję głową w dół,
     description: `<p class='paragraph'>
     Test podwójny w ciąży to: nieinwazyjne badanie prenatalne, które zakłada ocenę dwóch hormonów - PAPP-A (Pregnancy-associated plasma protein-A) i wolnej podjednostki beta hCG. <br><br>
 Test zaleca się kobietom, bez względu na ich wiek, a wykonuje się go pomiędzy 10. a 14. tygodniem ciąży. Test umożliwia wykrycie nieprawidłowości w rozwoju dziecka, przede wszystkim wad genetycznych, takich jak m.in. zespół Downa czy Edwardsa.<br><br>
-Test PAPP-A wykrywa się aż 9 na 10 płodów z zaburzeniami. <br><br>
 By wykonać test podwójny, potrzebna jest próbka krwi ciężarnej.
 
 
